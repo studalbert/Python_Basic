@@ -5,3 +5,6 @@ players = {
 }
 
 # TODO здесь писать код
+result = [key + value for key, value in players.items()]
+
+print(result)
