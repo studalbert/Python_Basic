@@ -2,7 +2,7 @@
 from collections import Counter
 def can_be_poly(text:str) -> bool:
     result = list(filter(lambda x: None if x % 2 == 0 else True, Counter(text).values()))
-    if len(result) == 1:
+    if len(result) <= 1:
         return True
     else:
         return False
