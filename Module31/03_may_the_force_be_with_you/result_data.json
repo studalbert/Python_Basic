@@ -1,0 +1,31 @@
+{
+    "name": "X-wing",
+    "max_atmosphering_speed": "1050",
+    "starship_class": "Starfighter",
+    "pilots": [
+        {
+            "name": "Luke Skywalker",
+            "height": "172",
+            "mass": "77",
+            "homeworld": "https://www.swapi.tech/api/planets/1"
+        },
+        {
+            "name": "Biggs Darklighter",
+            "height": "183",
+            "mass": "84",
+            "homeworld": "https://www.swapi.tech/api/planets/1"
+        },
+        {
+            "name": "Wedge Antilles",
+            "height": "170",
+            "mass": "77",
+            "homeworld": "https://www.swapi.tech/api/planets/22"
+        },
+        {
+            "name": "Jek Tono Porkins",
+            "height": "180",
+            "mass": "110",
+            "homeworld": "https://www.swapi.tech/api/planets/26"
+        }
+    ]
+}
